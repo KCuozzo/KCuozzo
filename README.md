@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KCuozzo
 - 👀 I’m interested in music
 - 🌱 I’m currently learning IDMX
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cover songs 
 - 📫 How to reach me  ...
 
 <!---
@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ! [Image of Mazikeen] 
 (https://tenor.com/view/maze-mazikeen-smith-lucifer-gif-15131744)
+
