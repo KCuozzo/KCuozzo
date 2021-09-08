@@ -1,8 +1,9 @@
-- 👋 My name is Kristina
-- 👀 I’m interested in working with resin
-- 🌱 I’m currently learning IDMX and 
-- 💞️ I love music, the sun and fall weather 
-- 📫 How to reach me  ... ask your ancestors
+- 🔮 Hello, my name is Kristina
+- 🎤 I love music, singing and writing lyrics or stories
+- 🌞 I bask in the long summer days by the pool and going to fairs
+- 🍂 I love the fall breeze & Halloween as I feel most like myself during this time
+- 🛠 I'm looking foward learning IDMX and different ways to express creativity 
+- 🧘🏻‍♀️ How to reach me  ...meditate & ask your ancestors
 
 <!---
 KCuozzo/KCuozzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
